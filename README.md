@@ -1,2 +1,2 @@
 # openCV-Basics
-A beginner-level OpenCV project in Python that loads an image from a user-defined path and provides a menu-driven interface to convert the image to grayscale, display it, or save it. The program uses loops, conditionals, and core OpenCV functions.
+A basic OpenCV project in Python showcasing fundamental image operations such as loading, displaying, editing, and saving images while practicing loops, conditionals, and OpenCV drawing and color conversion functions.
